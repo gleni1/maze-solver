@@ -10,8 +10,9 @@ This is a Python-based maze solver project that generates and displays a maze wi
 
 ## Visualization
 
+### BFS Animation
 ![BFS Animation](assets/images/BFS.gif)
 
-
+### DFS Animation
 ![DFS Animation](assets/images/DFS.gif)
 
